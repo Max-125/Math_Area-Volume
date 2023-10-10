@@ -1,0 +1,5 @@
+C:/Users/Максим/Desktop/MathArea/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Максим/Desktop/MathArea/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Максим/Desktop/MathArea/out/build/x64-Debug/MathArea/CMakeFiles/MathArea.dir
+C:/Users/Максим/Desktop/MathArea/out/build/x64-Debug/MathArea/CMakeFiles/edit_cache.dir
+C:/Users/Максим/Desktop/MathArea/out/build/x64-Debug/MathArea/CMakeFiles/rebuild_cache.dir
